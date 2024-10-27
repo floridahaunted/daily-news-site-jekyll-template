@@ -1,0 +1,23 @@
+---
+layout: default
+title: Home
+description: Site dedicated to all the mouse auto-clickers
+---
+
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+
+    <div class="row listrecent">
+
+		{% assign product_posts = site.posts | sort: 'order' %}
+
+        {% for post in product_posts %}
+
+        {% include postbox.html %}
+
+        {% endfor %}
+
+    </div>
+
+</section>
