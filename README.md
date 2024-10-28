@@ -10,15 +10,15 @@ Under Windows, after Jekyll installation done, simply run "\_\_serve.bat", it re
 
 NOTE. At very first time run "bundle install --standalone".
 
-To deploy for production, take any text parser of your choice and replace all the entries of "http://0.0.0.0:4000/" to "https://yourdomain.com/" in the file "_site\\assets\\js\\lunrsearchengine.js".
+To deploy for production, take any text parser of your choice and replace all the entries of "http://0.0.0.0:4000/" to "https://yoursite.yourdomain/" in the file "_site\\assets\\js\\lunrsearchengine.js".
 
-IMPORTANT. Update _config.yml according "yourdomain.com" and other settings.
+IMPORTANT. Update the file "_config.yml" according "yoursite.yourdomain" and other settings.
 
 ## Advantages
 
 * No external dependencies. All the html/css/javascript stuff is 100% local.
 * 100% fully responsive design, tested on a wide set of PCs, FullHD and 4K monitors, iPhones, Androids, etc.
-* Built-in full text search engine works on all the pages and posts. After calling \_\_serve.bat, lunrsearchengine.js is updated correspondingly.
+* Built-in full text search engine works on all the pages and posts. After calling "\_\_serve.bat", file "lunrsearchengine.js" is updated correspondingly.
 * Ready for automatic and semi-automatic content update. After a new post file in a Markdown format has been placed into a "_posts" folder, and "\_\_serve.bat" has been called, all the html pages and sitemap become updated correctly. You have to automate just a "_site" folder deployment to your nginx server.
 
 ## Format of a post file
