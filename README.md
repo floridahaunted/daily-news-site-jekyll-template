@@ -45,3 +45,5 @@ Field "order" must contain a natural number. All the posts are sorted against "o
 
 We recommend that every "assets/images/yourdesiredimage.jpg" should have at least 1000px on the shortest side, should be saved in a common JPEG format with just 25% quality, and output file size should be less than 90Kb.
 In other words, prepare high-resolution images but store them with poor JPEG quality, rather than prepare low-resolution images and store them with high JPEG quality.
+
+* Don't forget to update the field "bdate" in your "_config.yml" file before call to "\_\_serve.bat". It is important for SEO, because "sitemap.xml" will be updated accordingly.
