@@ -1,4 +1,4 @@
-# news-online-jekyll-template
+# Daily News Jekyll template
 
 SEO-optimized and fully responsive Jekyll template for an entertainment news site ready for automated daily update and regeneration.
 
@@ -47,3 +47,5 @@ We recommend that every "assets/images/yourdesiredimage.jpg" should have at leas
 In other words, prepare high-resolution images but store them with poor JPEG quality, rather than prepare low-resolution images and store them with high JPEG quality.
 
 * Don't forget to update the field "bdate" in your "_config.yml" file before call to "\_\_serve.bat". It is important for SEO, because "sitemap.xml" will be updated accordingly.
+
+[Indeed!](https://profile.indeed.com/p/floridah-p5b9vzh)
