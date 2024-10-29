@@ -4,6 +4,8 @@ SEO-optimized and fully responsive Jekyll template for an entertainment news sit
 
 [Demo](https://mouse-auto-clickers.online/)
 
+Based on [Mediumish Jekyll Theme](https://www.wowthemes.net/mediumish-free-jekyll-template/) by WowThemes.net.
+
 ## Usage
 
 Under Windows, after Jekyll installation done, simply run "\_\_serve.bat", it regenerates the whole site and listens as local http site at 0.0.0.0:4000.
