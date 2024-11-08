@@ -2,6 +2,17 @@
 
 SEO-optimized and fully responsive Jekyll template for an entertainment news site ready for automated daily update and regeneration.
 
+## mouse-auto-clickers.online
+
+### A global info Hub dedicated to the mouse auto-clickers for Windows, Linux, macOS, PC, iPhone, Android
+
+* Use This AutoClicker App to Rack Up Points on Idle Games
+* The 5 Best Auto Clickers With Hotkeys for Windows
+* The 5 Best Auto Clickers for Mac
+* Teen hacked Roblox with iPhone
+* Minecraft to lose VR support
+* AutoClicker Memes Adventure on Youtube
+
 [Demo](https://mouse-auto-clickers.online/)
 
 Based on [Mediumish Jekyll Theme](https://www.wowthemes.net/mediumish-free-jekyll-template/) by WowThemes.net.
