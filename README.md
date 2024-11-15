@@ -4,7 +4,19 @@ SEO-optimized and fully responsive Jekyll template for an entertainment news sit
 
 ## mouse-auto-clickers.online
 
-### A global info Hub dedicated to the mouse auto-clickers for Windows, Linux, macOS, PC, iPhone, Android
+### A global info Hub dedicated to the Roblox, Minecraft, Soda Candy Crush, etc. idle games and mouse auto-clickers for Windows, Linux, macOS, PC, iPhone, Android
+
+* OP Auto Clicker
+
+All the latest info about OP Auto Clicker.
+
+* GS Auto Clicker
+
+All the latest info about GS Auto Clicker.
+
+* Murgaa Auto Clicker
+
+All the latest info about Murgaa Auto Clicker.
 
 * Race Clicker codes November 2024
 
