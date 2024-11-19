@@ -6,6 +6,18 @@ SEO-optimized and fully responsive Jekyll template for an entertainment news sit
 
 ### A global info Hub dedicated to the Roblox, Minecraft, Soda Candy Crush, etc. idle games and mouse auto-clickers for Windows, Linux, macOS, PC, iPhone, Android
 
+* Soda Candy Crush 10th anniversary
+
+Candy Crush Soda Saga has a celebration happening right now as the devs mark the 10th Anniversary with a special event in the game.
+
+* The Fastest Mouse Clicker for Windows
+
+All the latest info about The Fastest Mouse Clicker for Windows.
+
+* AutoClicker2 Record Play
+
+All the latest info about AutoClicker Record Play.
+
 * OP Auto Clicker
 
 All the latest info about OP Auto Clicker.
