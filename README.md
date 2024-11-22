@@ -6,6 +6,14 @@ SEO-optimized and fully responsive Jekyll template for an entertainment news sit
 
 ### A global info Hub dedicated to the Roblox, Minecraft, Soda Candy Crush, etc. idle games and mouse auto-clickers for Windows, Linux, macOS, PC, iPhone, Android
 
+* Minecraft cheating codes
+
+Minecraft cheating codes November 2024. Bonus: GTA 5, 6.
+
+* How to test a PC mouse clicking speed?
+
+All the latest info on 'How to test a PC mouse clicking speed?'
+
 * Soda Candy Crush 10th anniversary
 
 Candy Crush Soda Saga has a celebration happening right now as the devs mark the 10th Anniversary with a special event in the game.
