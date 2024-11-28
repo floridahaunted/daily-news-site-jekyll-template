@@ -6,6 +6,10 @@ SEO-optimized and fully responsive Jekyll template for an entertainment news sit
 
 ### A global info Hub dedicated to the Roblox, Minecraft, Soda Candy Crush, etc. idle games and mouse auto-clickers for Windows, Linux, macOS, PC, iPhone, Android
 
+* GTA 5 cheating codes
+
+GTA 5 cheats work for PS5, PS4, PS3, Xbox Series X, Xbox One, Xbox 360, and PC . Here's a list of the best GTA5 cheats we recommend using . Enter the Weather cheat multiple times to toggle through rain, clouds, clear days and snow.
+
 * Minecraft cheating codes
 
 Minecraft cheating codes November 2024. Bonus: GTA 5, 6.
