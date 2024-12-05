@@ -4,7 +4,13 @@ SEO-optimized and fully responsive Jekyll template for an entertainment news sit
 
 ## mouse-auto-clickers.online
 
+Added mini-navigator "Breaking News | Solid Articles"
+
 ### A global info Hub dedicated to the Roblox, Minecraft, Soda Candy Crush, etc. idle games and mouse auto-clickers for Windows, Linux, macOS, PC, iPhone, Android
+
+* The Browser Idle Games That Play Themselves While You Work
+
+Imagine earning rewards, unlocking achievements, and building virtual empires—all while focusing on your tasks.
 
 * Auto Clickers Revolutionized Idle Games
 

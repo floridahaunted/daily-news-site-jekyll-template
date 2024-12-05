@@ -1,0 +1,17 @@
+<!-- Generated News Index
+================================================== -->
+<section class="recent-posts">
+
+    <div class="row listrecent">
+
+		{% assign product_posts = site.posts | where: "generated_news", "1" | sort: 'order' %}
+
+        {% for post in product_posts %}
+
+        {% include postbox_generated_news.html %}
+
+        {% endfor %}
+
+    </div>
+
+</section>

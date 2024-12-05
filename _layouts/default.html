@@ -106,9 +106,14 @@ ga('send', 'pageview');
 <!-- Content
 ================================================== -->
 <div class="main-content">
-	{% unless page.order %}
-	<h1 class="pagetitle">{{ page.title }}</h1>
-	{% endunless %}
+    {% unless page.order %}
+    <h1 class="pagetitle">{{ page.title }}</h1>
+        {% if page.news %}
+    <header class="pagetitle"><a name="BreakingNews">Breaking News</a> | <a href="#SolidArticles">Solid Articles</a></header>
+            {% include {{ page.news }} %}
+    <header class="pagetitle"><a href="#BreakingNews">Breaking News</a> | <a name="SolidArticles">Solid Articles</a></header>
+        {% endif %}
+    {% endunless %}
     {{ content }}
 </div>
 
@@ -139,7 +144,7 @@ ga('send', 'pageview');
                 Copyright © {{ site.bdate | date: "%Y" }} {{ site.name }}. Updated {{ site.bdate | date: "%Y-%m-%d" }}.
             </div>
             <div class="col-md-6 col-sm-6 text-center text-lg-right">
-                <small>Forked from <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net.</small>
+                <small>Jekyll template source code at <a target="_blank" href="https://github.com/floridahaunted/daily-news-site-jekyll-template">GitHub</a> by Florida Haunted.</small>
             </div>
         </div>
     </div>
