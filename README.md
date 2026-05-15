@@ -2,11 +2,7 @@
 
 SEO-optimized and fully responsive Jekyll template for an entertainment news site ready for automated daily update and regeneration.
 
-## mouse-auto-clickers.online
-
-Added mini-navigator "Breaking News | Solid Articles"
-
-### A global info Hub dedicated to the Roblox, Minecraft, Soda Candy Crush, etc. idle games and mouse auto-clickers for Windows, Linux, macOS, PC, iPhone, Android
+## Knowledge domains perfect for this template
 
 * The Browser Idle Games That Play Themselves While You Work
 
@@ -22,7 +18,7 @@ GTA 5 cheats work for PS5, PS4, PS3, Xbox Series X, Xbox One, Xbox 360, and PC .
 
 * Minecraft cheating codes
 
-Minecraft cheating codes November 2024. Bonus: GTA 5, 6.
+Minecraft cheating codes. Bonus: GTA 5, 6.
 
 * How to test a PC mouse clicking speed?
 
@@ -32,15 +28,15 @@ All the latest info on 'How to test a PC mouse clicking speed?'
 
 Candy Crush Soda Saga has a celebration happening right now as the devs mark the 10th Anniversary with a special event in the game.
 
-* The Fastest Mouse Clicker for Windows
+* [The Fastest Mouse Clicker for Windows](https://windows2048.com/The-Fastest-Mouse-Clicker-for-Windows/)
 
 All the latest info about The Fastest Mouse Clicker for Windows.
 
-* AutoClicker2 Record Play
+* [AutoClicker2 Record Play](https://windows2048.com/OP-AutoClicker-Record-Play-for-Windows/)
 
 All the latest info about AutoClicker Record Play.
 
-* OP Auto Clicker
+* [OP Auto Clicker](https://windows2048.com/OP-AutoClicker-Record-Play-for-Windows/)
 
 All the latest info about OP Auto Clicker.
 
@@ -52,7 +48,7 @@ All the latest info about GS Auto Clicker.
 
 All the latest info about Murgaa Auto Clicker.
 
-* Race Clicker codes November 2024
+* Race Clicker codes 2026
 
 We’ve compiled a list of all the new Race Clicker codes for free wins and boosts in this click-to-win Roblox game . The codes can be redeemed in-game, providing many competitive advantages to help you win the clicking frenzy . Some of the codes offer free auto clicks, while you can get boosts and luck for a limited time.
 
@@ -78,23 +74,23 @@ Mattox Catson is a popular American content creator, YouTuber, and social media 
 
 * Minecraft to lose VR support
 
-The beloved sandbox universe of Minecraft has been our portal to creativity and adventure for years, offering experiences that, for VR users, went beyond screens and into our senses. But come March 2025, that magical, immersive feeling of “stepping inside” our Minecraft worlds will become a memory. Yes, it’s official—Minecraft VR support will be discontinued, leaving countless fans reeling from this sudden blow.
+The beloved sandbox universe of Minecraft has been our portal to creativity and adventure for years, offering experiences that, for VR users, went beyond screens and into our senses. But come March 2026, that magical, immersive feeling of “stepping inside” our Minecraft worlds will become a memory. Yes, it’s official—Minecraft VR support will be discontinued, leaving countless fans reeling from this sudden blow.
 
 * AutoClicker Memes Adventure on Youtube
 
 In the ever-expanding digital landscape of Roblox and Minecraft, a peculiar phenomenon has taken hold - the auto-clicker memes have found a new home, not just as a source of amusement but as the catalyst for extraordinary adventures that defy the limits of imagination. As a seasoned observer of the virtual realm, I’ve had the privilege of chronicling the courageous exploits of gamers who navigate treacherous terrains and face insurmountable challenges, all in the pursuit of the perfect auto-clicker experience.
 
-**[Demo: mouse-auto-clickers.online](https://mouse-auto-clickers.online/)**
-
 Based on [Mediumish Jekyll Theme](https://www.wowthemes.net/mediumish-free-jekyll-template/) by WowThemes.net.
+
+## Demo
+
+[Global multi-lingual info Hub dedicated to the mouse auto-clicker apps for Windows, Linux, macOS, PC, iPhone, Android, and idle games Roblox, Minecraft, Soda Candy Crush, etc.](https://windows2048.com)
 
 ## Usage
 
 Under Windows, after Jekyll installation done, simply run "\_\_serve.bat", it regenerates the whole site and listens as local http site at 0.0.0.0:4000.
 
 NOTE. At very first time run "bundle install --standalone".
-
-To deploy for production, take any text parser of your choice and replace all the entries of "http://0.0.0.0:4000/" to "https://yoursite.yourdomain/" in the file "_site\\assets\\js\\lunrsearchengine.js".
 
 IMPORTANT. Update the file "_config.yml" according "yoursite.yourdomain" and other settings.
 
@@ -132,4 +128,3 @@ In other words, prepare high-resolution images but store them with poor JPEG qua
 
 * Don't forget to update the field "bdate" in your "_config.yml" file before call to "\_\_serve.bat". It is important for SEO, because "sitemap.xml" will be updated accordingly.
 
-[Indeed!](https://profile.indeed.com/p/floridah-p5b9vzh)
